@@ -1,5 +1,5 @@
 // Initialize and add the app
-function initMap() {
+function initMap(){
     //Your location
     const loc = { lat:6.570652, lng:3.367890 };
     //Centered map on location
